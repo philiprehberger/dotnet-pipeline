@@ -178,6 +178,12 @@ var result2 = await func(new PipelineContext<int, int>(10));  // 20
 |--------|-------------|
 | `AddPipeline<TInput, TOutput>(Action<Pipeline>)` | Registers a configured pipeline as a singleton |
 
+## Development
+
+```bash
+dotnet build src/Philiprehberger.Pipeline.csproj --configuration Release
+```
+
 ## License
 
 MIT
