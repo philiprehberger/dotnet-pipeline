@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>Philiprehberger.Pipeline</PackageId>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <Authors>Philip Rehberger</Authors>
     <Description>Middleware pipeline builder for any operation — like ASP.NET Core middleware but for business logic</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
