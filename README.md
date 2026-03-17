@@ -6,7 +6,7 @@
 
 Middleware pipeline builder for any operation — like ASP.NET Core middleware but for business logic.
 
-## Install
+## Installation
 
 ```bash
 dotnet add package Philiprehberger.Pipeline
