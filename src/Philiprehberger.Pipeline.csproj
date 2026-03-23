@@ -7,9 +7,9 @@
     <LangVersion>latest</LangVersion>
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
     <PackageId>Philiprehberger.Pipeline</PackageId>
-    <Version>0.1.5</Version>
+    <Version>0.1.6</Version>
     <Authors>Philip Rehberger</Authors>
-    <Description>Middleware pipeline builder for any operation — like ASP.NET Core middleware but for business logic</Description>
+    <Description>Middleware pipeline builder for any operation — like ASP.NET Core middleware but for business logic.</Description>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <RepositoryUrl>https://github.com/philiprehberger/dotnet-pipeline</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
