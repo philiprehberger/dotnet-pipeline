@@ -3,6 +3,7 @@
 [![CI](https://github.com/philiprehberger/dotnet-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-pipeline/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Pipeline.svg)](https://www.nuget.org/packages/Philiprehberger.Pipeline)
 [![License](https://img.shields.io/github/license/philiprehberger/dotnet-pipeline)](LICENSE)
+[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
 
 Middleware pipeline builder for any operation — like ASP.NET Core middleware but for business logic.
 
@@ -186,4 +187,4 @@ dotnet build src/Philiprehberger.Pipeline.csproj --configuration Release
 
 ## License
 
-MIT
+[MIT](LICENSE)
