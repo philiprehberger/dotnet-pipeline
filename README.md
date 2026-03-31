@@ -2,8 +2,7 @@
 
 [![CI](https://github.com/philiprehberger/dotnet-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/philiprehberger/dotnet-pipeline/actions/workflows/ci.yml)
 [![NuGet](https://img.shields.io/nuget/v/Philiprehberger.Pipeline.svg)](https://www.nuget.org/packages/Philiprehberger.Pipeline)
-[![License](https://img.shields.io/github/license/philiprehberger/dotnet-pipeline)](LICENSE)
-[![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ec6cb9)](https://github.com/sponsors/philiprehberger)
+[![Last updated](https://img.shields.io/github/last-commit/philiprehberger/dotnet-pipeline)](https://github.com/philiprehberger/dotnet-pipeline/commits/main)
 
 Middleware pipeline builder for any operation — like ASP.NET Core middleware but for business logic.
 
@@ -184,6 +183,24 @@ var result2 = await func(new PipelineContext<int, int>(10));  // 20
 ```bash
 dotnet build src/Philiprehberger.Pipeline.csproj --configuration Release
 ```
+
+## Support
+
+If you find this project useful:
+
+⭐ [Star the repo](https://github.com/philiprehberger/dotnet-pipeline)
+
+🐛 [Report issues](https://github.com/philiprehberger/dotnet-pipeline/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
+
+💡 [Suggest features](https://github.com/philiprehberger/dotnet-pipeline/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
+
+❤️ [Sponsor development](https://github.com/sponsors/philiprehberger)
+
+🌐 [All Open Source Projects](https://philiprehberger.com/open-source-packages)
+
+💻 [GitHub Profile](https://github.com/philiprehberger)
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/philiprehberger)
 
 ## License
 
